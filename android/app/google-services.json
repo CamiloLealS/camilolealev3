@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "44463660051",
+    "project_id": "camilolealev3firebase",
+    "storage_bucket": "camilolealev3firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44463660051:android:2ab1a1817ddab9c2c733e6",
+        "android_client_info": {
+          "package_name": "USM.MobDev.camilolealev3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44463660051-tb9pgori8goqkrjn711d3ru0fpecqlf0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD85UxPSXdwKJkr3b6DdjCg-GV15YNZdvk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "44463660051-tb9pgori8goqkrjn711d3ru0fpecqlf0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
